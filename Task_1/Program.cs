@@ -59,6 +59,6 @@ for (int i = 1; i < matrix.GetLength(0); i++)                           // На�
 }
 
 Console.WriteLine();
-Console.WriteLine($"Строка с минимальной суммой элементов - {minRow + 1}.");
+Console.WriteLine($"{minRow + 1} строка");
 
 
